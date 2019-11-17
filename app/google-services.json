@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "472949792228",
+    "firebase_url": "https://toys-d9028.firebaseio.com",
+    "project_id": "toys-d9028",
+    "storage_bucket": "toys-d9028.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472949792228:android:3a109cb83ae21d72313bf1",
+        "android_client_info": {
+          "package_name": "com.example.toysstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472949792228-ro1hg8v8rfpsd4lpg6s9gnsukmrk0j6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ85GKxX-aw9St331mILD9l3NgSV4vM3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472949792228-ro1hg8v8rfpsd4lpg6s9gnsukmrk0j6k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
